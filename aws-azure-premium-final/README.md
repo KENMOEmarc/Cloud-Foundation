@@ -4,8 +4,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure) ![Mappings](https://img.shields.io/badge/140-Service_Mappings-success?style=for-the-badge)
 
-**Premium README-style cloud comparison**
-
 </div>
 
 > Note: the icon columns below assume you have extracted the official AWS and Azure SVG icon packs locally into `./assets/aws/` and `./assets/azure/`.
